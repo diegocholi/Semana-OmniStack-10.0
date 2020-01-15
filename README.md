@@ -5,11 +5,16 @@ A principal finalidade desta aplicação WEB é o cadastro de usuários para o a
 ## Aplicação MOBILE
 O aplicativo é baseado em geolocalização. Sua principal finalidade é a busca de desenvolvedores por tecnologias especificas, facilitando o encontro de proficionais da area de TI.
 
-## Tecnologias utilizadas
-Backend: NodeJS
-FrontendWEB: React
-FrontendMOBILE: React-native + Expo
+## Gerenciador de pacotes
+* NodeJS + Yarn
 
+## Tecnologias utilizadas
+* Backend: NodeJS
+* FrontendWEB: React
+* FrontendMOBILE: React-native + Expo
+* MongoDB: Banco de dados não relacional
+* MongoDB Atlas: Serviço gratuito de hospedagem para o MongoDB
+* MongoDB Compass: Para consulta ao banco de dados MongoDB
 
 ## Editor e suas dependências
 Para o desenvolvimento será utilizado o editor de texto Visual Studio Code com as seguintes extenções:
