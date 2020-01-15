@@ -15,7 +15,7 @@
 - JSON viewer
 
 ## Informações adicionais sobre a biblioteca express
-# Tipos de parâmetros
+### Tipos de parâmetros
 1. Query Params: 
     * Usados para filtro, paginação, ordenação.
     * Exemplo de valores passados através de Query Params: *127.0.0.1/users?search=valor*

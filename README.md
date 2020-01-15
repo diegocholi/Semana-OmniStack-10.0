@@ -1,4 +1,7 @@
 # Semana-OmniStack-10.0
+Venha descobrir o poder do desenvolvimento back-end, front-end e mobile utilizando uma única linguagem.
+
+Através das mesmas tecnologias utilizadas pelo Uber, Netflix, AirBnB, Instagram, PayPal, Medium, LinkedIn, Discord e Facebook.
 ## Aplicação WEB:
 A principal finalidade desta aplicação WEB é o cadastro de usuários para o aplicativo que será desenvolvido na semana Semana OmniStack 10.0. 
 
