@@ -16,4 +16,4 @@ mongose.connect('mongodb+srv://root:975907@cluster0-cjtsa.mongodb.net/test?retry
 app.use(express.json()) // Express.json tem que vir antes das rotas
 app.use(routes)
 
-app.listen(3000)
+app.listen(7777)

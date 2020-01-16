@@ -23,3 +23,6 @@ O aplicativo é baseado em geolocalização. Sua principal finalidade é a busca
 Para o desenvolvimento será utilizado o editor de texto Visual Studio Code com as seguintes extenções:
 1. Dracula: Tema 
 2. Material Icon Theme: Adiciona icones nos arquivos conforme a linguagem de programação.
+
+*yarn create react-app web*
+*npx create-react-app web*
