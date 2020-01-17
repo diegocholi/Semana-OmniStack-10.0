@@ -1,11 +1,13 @@
 ## Conceitos React
-
 1. Componente:
 * Bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação
 2. Propriedade:
 * Informações que um componente PAI passa para o componente FILHO
 2. Estado: 
 *  Informações mantidas pelo componente (Lembrar: imutabilidade)
+
+## Dependências de projeto
+* Axios: *yarn add axios* ou *npm install axios*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

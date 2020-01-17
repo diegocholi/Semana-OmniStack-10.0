@@ -7,6 +7,7 @@
 * Nodemon: *yarn add nodemon -D* ou *npm install nodemon -D*. Para executar o projeto com o nodemon execute no terminal: *yarn nodemon index.js*
 * MongoDB: *yarn add mongoose* ou *npm install mongoose*
 * Axios: *yarn add axios* ou *npm install axios*
+* Cors: *yarn add cors* ou *npm install cors*
 
 ## Comandos node para criação de projeto
 * yarn init -y ou npm init -y
